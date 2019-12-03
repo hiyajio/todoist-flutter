@@ -1,3 +1,3 @@
-# todoey_flutter
+# Todoist
 
-A new Flutter application.
+A To-Do List Flutter application using Provider.
