@@ -1,3 +1,3 @@
-# Todoist
+# Todoist - Flutter
 
 A To-Do List Flutter application using Provider.
